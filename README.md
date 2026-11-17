@@ -55,8 +55,8 @@ Follow these instructions to get a copy of the project up and running on your lo
 
 1.  **Clone the repository** (or use your existing local project folder):
     ```bash
-    git clone https://github.com/your-username/your-repo-name.git
-    cd your-repo-name
+    git clone https://github.com/priyansh1210/Prototype-Pay.git
+    cd Prototype-Pay
     ```
 
 2.  **Install dependencies:**
@@ -126,7 +126,3 @@ All offline actions are logged locally on the respective user's device. When a u
 -   **Receivers' apps** will report the claims they made.
 
 The server acts as the central source of truth to ensure that all transactions are eventually validated and reconciled across the network. If a discrepancy arises (e.g., a receiver claimed coins for a transaction the sender never synced), the system is designed to handle this during reconciliation, which may involve reversing a local credit.
-
-
-Preview Link for you :)
-https://9000-firebase-studio-1750151412148.cluster-bg6uurscprhn6qxr6xwtrhvkf6.cloudworkstations.dev
