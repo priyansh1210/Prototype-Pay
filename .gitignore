@@ -49,3 +49,6 @@ persisted_*.json
 
 # editor settings
 .vscode/
+
+# Firebase Studio workspace config
+.idx/
